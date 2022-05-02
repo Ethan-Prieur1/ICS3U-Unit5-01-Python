@@ -6,10 +6,10 @@
 
 
 def fahrenheit():
-    # This convets Celsius to Fahrenheit
+    # This converts Celsius to Fahrenheit
 
     # Input
-    celsius_string = input("Enter a Tempature in Celsius: ")
+    celsius_string = input("Enter a Temperature in Celsius: ")
 
     # Process
     try:
